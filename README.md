@@ -27,9 +27,9 @@ Step 8: Save the detected object regions.
 
 Step 9: Display the final detected output image.
 
-Program
-Developed By : HARINI S
-Register Number : 212224240049
+## Program
+## Developed By : HARINI S
+## Register Number : 212224240049
 ```PYTHON
 import cv2
 import matplotlib.pyplot as plt
